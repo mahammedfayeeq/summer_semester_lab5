@@ -1,5 +1,4 @@
-  amity university
-
-  bangalore
-
-  btech cse
+tarun
+amity university
+bangalore
+btech cse
