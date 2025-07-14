@@ -1,12 +1,14 @@
 mahammed fayeeq tumminakatti
-amity university banglore
+aub
 cse
 batch:10
 
 huzaif
-amity university bangalore
+aub
 cse
 batch:10
+
+
 
 now testing code in test1 branch
 btech cyber security
